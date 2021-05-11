@@ -1,0 +1,11 @@
+# French Indochina
+IDF = "countries/IDF - Indochine francaise.txt"
+
+# Indochina Communist Party
+ICP = "countries/ICP - Indochina Communist Party.txt"
+
+# Vietnam Nationalist Party
+VNP = "countries/VNP - Vietnam Nationalist Party.txt"
+
+# Dai Viet National Socialist Party
+DNP = "countries/DNP - Dai Viet National Socialist Party.txt"

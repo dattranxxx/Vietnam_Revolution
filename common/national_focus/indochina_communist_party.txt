@@ -1,0 +1,13 @@
+﻿focus_tree = {
+	id = indochina_communist_party
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = ICP
+		}
+	}
+	default = no
+
+}

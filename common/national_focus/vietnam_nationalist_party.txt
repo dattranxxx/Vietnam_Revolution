@@ -1,0 +1,13 @@
+﻿focus_tree = {
+	id = vietna_nationalist_party
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = VNP
+		}
+	}
+	default = no
+
+}

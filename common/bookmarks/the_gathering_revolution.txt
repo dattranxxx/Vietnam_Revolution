@@ -1,0 +1,63 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "IDF"
+		default = yes
+		
+		"IDF"={
+			history = "Indochine Francois History?"
+			ideology = neutrality
+			# available = { NOT = { has_dlc = "La Resistance" } }
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"ICP"={
+			history = "Indochina Communism Party History?"
+			ideology = communism
+			# available = { NOT = { has_dlc = "La Resistance" } }
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"VNP"={
+			history = "Vietnam Nationalist Party History?"
+			ideology = neutrality 
+			# available = { NOT = { has_dlc = "La Resistance" } }
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"DNP"={
+			history = "Dai Viet National Socialist Party History?"
+			ideology = fascism 
+			# available = { NOT = { has_dlc = "La Resistance" } }
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

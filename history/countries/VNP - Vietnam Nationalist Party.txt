@@ -1,0 +1,99 @@
+﻿# capital = 671 #Hanoi
+
+# oob = "VNP_1936"
+
+set_research_slots = 1
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		transport = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		mtg_transport = 1
+	}
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1935.3.31"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	communism = 65
+	fascism = 35
+}
+
+# Vietnamese Font Needed
+
+create_country_leader = {
+	name = "Phan Bôi Châu" 
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord2.dds"
+	expire = "1953.3.1"
+	ideology = fascism_ideology 
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ho Chí Minh" 
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_communism.dds"
+	expire = "1953.3.1"
+	ideology = marxism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ngô Đình Diêm"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+	expire = "1953.3.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nguyen Tuong Tam"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+	expire = "1953.3.1"
+	ideology = moderatism
+	traits = {
+		
+	}
+}
+
+
+# General
+create_corps_commander = {
+	name = "Nguyen Binh"
+		picture = "Portrait_Japan_Tomoyuki_Yamashita.dds"
+	traits = {
+		trickster trait_engineer brilliant_strategist politically_connected
+	}
+	skill = 5
+	attack_skill = 4
+	defense_skill = 5
+	planning_skill = 3
+	logistics_skill = 4
+}
