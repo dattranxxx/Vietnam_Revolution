@@ -1,0 +1,58 @@
+state={
+	id=809
+	name="STATE_809"
+	provinces={
+		1302 4379 4397 7280 9988 10016 10129 11909 11936 12297 13249 13251 13252 13253 13254 13255 13256 13257 
+	}
+	manpower = 3245000
+	
+	state_category = town
+	buildings_max_level_factor=1.000
+	
+	resources={
+		
+		tungsten = 18
+	}
+
+
+	history={
+		add_core_of = VIN
+		owner = FRA
+		victory_points = { 
+			11936 5
+			}
+		victory_points = {
+			12297 3
+		}
+		victory_points = {
+			1302 3
+		}
+		victory_points = {
+			4379 30
+		}
+		victory_points = {
+			4397 3
+		}
+		
+		
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+
+			11936 = {
+				naval_base = 1
+			}
+
+			4379 = {
+				naval_base = 2
+			}
+
+
+			}
+
+		}
+
+
+}

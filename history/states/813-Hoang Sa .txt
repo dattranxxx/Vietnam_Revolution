@@ -1,0 +1,26 @@
+state={
+	id=813
+	name="STATE_813"
+	provinces={
+		13285 13286 13287 13288 13289 
+	}
+	manpower = 10	
+	state_category = tiny_island
+	
+	history={
+		add_core_of = VIN
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+
+			13286 = {
+				naval_base = 1
+			}
+			13289 = {
+				naval_base = 1
+			}
+
+			}
+
+		}
+}

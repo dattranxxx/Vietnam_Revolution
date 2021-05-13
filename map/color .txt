@@ -1,0 +1,67 @@
+50;100;80 Lang Son
+68;100;80 Tuyên Quang
+50;100;149 Tây Hà Giang
+50;100;160 Tây Lào Cai
+162;100;80 Đông Yên Bái
+163;100;80 Tây Bắc Điện Biên 
+50;161;80 Tây Nam Điện Biên
+200;100;80 Đông Sơn La trải dài sông Lô
+50;182;80 Đông Nam Sơn La 
+50;168;148 Nam Sơn La
+50;169;149 Pắc Bó
+50;170;150 Tây Nam Lạng Sơn 
+50;190;80 Bắc Ninh Hải Dương 
+118;168;81 Bắc Thanh Hóa-Bình Định
+119;169;81 Vùng Sông Mã bên Lèo
+118;168;148 Tây Nam Nghệ An
+118;168;160 Tây Hà Tĩnh
+130;169;149 Tây Bắc Quảng Bình
+118;190;148  Đông Nam Quảng Bình
+187;168;148 Tây Nam Quảng Bình
+200;168;148 Tây Quảng Trị
+183;241;108 Tây Huế
+131;169;149 Hưng Yên Hải Dương
+182;152;146 Tây Thái Nguyên
+34;167;174 Nam Tuyên Quang 
+202;211;186 Đà Nẵng VC
+112;60;0 Bắc Quảng Nam
+133;147;166 Nam Quảng Nam
+96;29;134 Tây Bắc Quảng Ngãi
+119;169;160 Đông Bắc KonTum
+73;126;48 Trung KomTum
+103;142;20 Gia Lai Pleiku
+110;46;210 Nam Gia Lai 
+177;188;24 Đông Khánh Hòa
+106;250;244 Đông Bắc Lâm Đồng
+188;168;148 Tây Bắc Lâm Đồng
+59;187;218 Đông Nam Đồng Nai 
+3;156;82 Tây Bắc Bình Thuận 
+60;103;1 Bắc Đồng Nai
+97;104;170 Hồ Trị An
+219;59;250 Binh Duong 
+66;205;228 Long An
+44;238;39 Đông Nam Long An 
+238;108;225 Tiền Giang smol
+74;141;150 Ben Tre 
+78;121;71 Đồng Tháp 
+184;63;45 Trà Vinh
+128;23;121 An Giang
+43;149;194 Đảo Phú Quốc
+192;214;142 Đảo Bạch Quy
+90;41;139 Đá Lưỡi Liềm
+58;250;138 Đá Bắc
+150;95;133 Đảo Phú Lâm / Cây
+0;54;188 Đảo Linh Côn 
+241;148;224 Đảo Trường Sa 
+87;213;127 Cụm Ba Kè 
+69;144;238 Cụm Thám Hiểm 
+210;196;229 đá Chữ Thập
+82;89;218 Cụm Song Tử/Thị Tứ
+37;133;214 Cụm Loại Ta 
+234;22;76 Cụm Nam Yết 
+199;194;8 Cụm Sinh Tồn 
+32;249;11 Cụm Hồ Trâm/Bãi cạn Nam 
+210;70;248 Cụm Bình Nguyên
+
+Chắc đủ =))
+

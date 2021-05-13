@@ -1,0 +1,44 @@
+
+state={
+	id=808
+	name="STATE_808"
+	provinces={
+		1157 7015 7093 7518 12065 13236 13237 13238 13247 13248 13259 13260 
+	}
+	manpower = 2100800
+	
+	state_category = large_town
+	buildings_max_level_factor=2.000
+	
+	resources={
+		steel=5 
+	}
+
+
+	history={
+		add_core_of = VIN
+		owner = FRA
+		victory_points = {
+			1157 10 	
+		}
+		victory_points = { 			
+			13259 3
+		}
+
+        victory_points = {
+			13260 2
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			1157 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+	
+}

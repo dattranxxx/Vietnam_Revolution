@@ -1,0 +1,21 @@
+state={
+	id=817
+	name="STATE_817"
+	provinces={
+		10309 
+	}
+	manpower = 10000	
+	state_category = enclave
+	
+
+	history={
+		add_core_of = VIN
+		owner = FRA
+		set_demilitarized_zone = yes
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+}

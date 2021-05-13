@@ -1,0 +1,38 @@
+state={
+	id=811
+	name="STATE_811"
+	provinces={
+		1248 1328 1400 1605 4363 7271 7347 7380 10180 12109 12150 12176 13265 13266 13267 13268 13269 13270 13271 
+	}
+	manpower = 1350000
+	
+	state_category = rural 
+	buildings_max_level_factor=1.000
+	
+	resources={
+		
+		rubber = 60 
+	}
+
+
+	history={
+		add_core_of = VIN
+		owner = FRA
+		victory_points = { 
+		     10180 2
+		}
+		victory_points = {
+			13268 2
+		}
+		victory_points = {
+			13270 3
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+			}
+
+		}
+}
