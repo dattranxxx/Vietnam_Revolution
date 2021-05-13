@@ -2,7 +2,7 @@
 state={
 	id=671
 	name="STATE_671"
-	manpower = 2675532
+	manpower = 4875532
 	
 	state_category = city
 	buildings_max_level_factor=5.000
@@ -14,8 +14,11 @@ state={
 
 
 	history={
-		add_core_of = VIN
-		owner = FRA
+		add_core_of = IDC 
+		add_core_of = DNP
+		add_core_of = VNP
+		add_core_of = IDF
+		owner = IDF
 		
 		victory_points = {
 			4075 40

@@ -8,8 +8,11 @@ state={
 	state_category = tiny_island
 	
 	history={
-		add_core_of = VIN
-		owner = FRA
+		add_core_of = IDC 
+		add_core_of = DNP
+		add_core_of = VNP
+		add_core_of = IDF
+		owner = IDF
 		buildings = {
 			infrastructure = 1
 

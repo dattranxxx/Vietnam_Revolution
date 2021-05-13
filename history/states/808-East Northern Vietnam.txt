@@ -5,7 +5,7 @@ state={
 	provinces={
 		1157 7015 7093 7518 12065 13236 13237 13238 13247 13248 13259 13260 
 	}
-	manpower = 2100800
+	manpower = 2400800
 	
 	state_category = large_town
 	buildings_max_level_factor=2.000
@@ -16,8 +16,11 @@ state={
 
 
 	history={
-		add_core_of = VIN
-		owner = FRA
+		add_core_of = IDC 
+		add_core_of = DNP
+		add_core_of = VNP
+		add_core_of = IDF
+		owner = IDF
 		victory_points = {
 			1157 10 	
 		}
