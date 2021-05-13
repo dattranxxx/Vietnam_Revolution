@@ -16,10 +16,10 @@ state={
 
 
 	history={
-		add_core_of = IDC 
+		add_core_of = ICP
 		add_core_of = DNP
 		add_core_of = VNP
-		add_core_of = IDF
+
 		owner = IDF
 		victory_points = {
 			1157 10 	

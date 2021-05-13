@@ -9,7 +9,7 @@ state={
 	buildings_max_level_factor=1.000
 	
 	history={
-		add_core_of = IDC 
+		add_core_of = ICP
 		add_core_of = DNP
 		add_core_of = VNP
 		add_core_of = IDF
